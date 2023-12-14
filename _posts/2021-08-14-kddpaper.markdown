@@ -4,8 +4,8 @@ title:  "Beyond modeling: NLP Pipeline for efficient environmental policy analys
 date:   2021-08-14 23:59:59 +00:00
 image: /images/kddpaper.png
 categories: research
-author: "Ramansh Sharma"
-authors: "Jordi Planas, Daniel Firebanks-Quevedo, Galina Naydenova, <strong>Ramansh Sharma</strong>, Cristina Taylor, Kathleen Buckingham, Rong Fang"
+author: "Alberto Cattaneo"
+authors: "Jordi Planas, Daniel Firebanks-Quevedo, Galina Naydenova, <strong>Alberto Cattaneo</strong>, Cristina Taylor, Kathleen Buckingham, Rong Fang"
 venue: "Fragile Earth proceedings - KDD"
 paper: /docs/kddpaper.pdf
 code: https://github.com/wri-dssg-omdena/policy-data-analyzer

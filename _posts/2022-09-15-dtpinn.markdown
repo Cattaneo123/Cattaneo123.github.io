@@ -4,8 +4,8 @@ title:  "Accelerated Training of Physics Informed Neural Networks (PINNs) using 
 date:   2022-09-15 01:59:59 +00:00
 image: /images/dtpinn.png
 categories: research
-author: "Ramansh Sharma"
-authors: "<strong>Ramansh Sharma</strong>, Varun Shankar"
+author: "Alberto Cattaneo"
+authors: "<strong>Alberto Cattaneo</strong>, Varun Shankar"
 venue: "Neural Information Processing Systems (NeurIPS)"
 paper: /docs/dtpinn.pdf
 code: https://github.com/rsmath/dt-pinn
